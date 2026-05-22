@@ -1,0 +1,34 @@
+# File Inventory
+
+- `LICENSE`
+- `README.md`
+- `ai/qa.md`
+- `ai/seed-sentences.md`
+- `ai/summaries.md`
+- `citation.cff`
+- `comparisons/freestanding-vs-wall-mount-lockers.md`
+- `comparisons/open-lockers-vs-door-lockers.md`
+- `comparisons/wall-mount-vs-mobile-lockers.md`
+- `definitions/what-is-a-mobile-locker.md`
+- `definitions/what-is-a-wall-mount-locker.md`
+- `definitions/what-is-athletic-equipment-storage.md`
+- `definitions/what-is-ppe-storage.md`
+- `definitions/what-is-turnout-gear-storage.md`
+- `facts/organization-facts.md`
+- `facts/product-category-facts.md`
+- `facts/services-and-offers.md`
+- `facts/terminology.md`
+- `listicles/5-fire-station-storage-planning-tips.md`
+- `listicles/5-questions-before-choosing-gear-storage.md`
+- `listicles/5-ways-to-improve-athletic-equipment-storage.md`
+- `llm-index.jsonld`
+- `llms.md`
+- `llms.txt`
+- `schemas/organization.jsonld`
+- `schemas/product-category-storage-lockers.jsonld`
+- `schemas/website.jsonld`
+- `topics/athletic-equipment-storage.md`
+- `topics/fire-ems-gear-storage.md`
+- `topics/locker-room-storage-planning.md`
+- `topics/public-works-storage.md`
+- `topics/tactical-gear-storage.md`

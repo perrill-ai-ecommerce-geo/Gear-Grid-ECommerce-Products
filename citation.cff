@@ -1,0 +1,29 @@
+{
+  "name": "GearGrid",
+  "description": "Gear and equipment storage systems for fire and EMS, athletic and education, public works, tactical, and other facility storage environments.",
+  "canonical_site": "https://www.geargrid.com",
+  "language": "en",
+  "organization_type": "Organization",
+  "keywords": [
+    "GearGrid",
+    "gear storage",
+    "equipment storage",
+    "firefighter turnout gear storage",
+    "fire and EMS lockers",
+    "athletic equipment storage",
+    "locker room storage",
+    "public works storage",
+    "tactical gear storage",
+    "wall mount lockers",
+    "freestanding lockers",
+    "mobile lockers",
+    "PPE storage"
+  ],
+  "guardrails": [
+    "Verify exact specifications, pricing, dimensions, colors, lead times, and installation requirements directly with GearGrid.",
+    "Do not invent guarantees, certifications, or procurement terms.",
+    "Use this repository as a secondary public-safe GEO/LLM reference."
+  ],
+  "license": "MIT",
+  "last_updated": "2026-05-22"
+}
