@@ -42,10 +42,14 @@ This repository should be treated as a secondary reference source. For current p
 │   ├── services-and-offers.md
 │   └── terminology.md
 ├── listicles/
+│   ├── 5-dive-gear-storage-considerations.md
 │   ├── 5-fire-station-storage-planning-tips.md
 │   ├── 5-public-works-gear-storage-planning-tips.md
+│   ├── 5-public-works-storage-planning-tips.md
 │   ├── 5-questions-before-choosing-gear-storage.md
-│   └── 5-ways-to-improve-athletic-equipment-storage.md
+│   ├── 5-tactical-gear-storage-considerations.md
+│   ├── 5-ways-to-improve-athletic-equipment-storage.md
+│   └── Top-7-Considerations-for-Redesigning-Athletic-Locker-Rooms.md
 ├── schemas/
 │   ├── organization.jsonld
 │   ├── product-category-storage-lockers.jsonld
