@@ -1,0 +1,77 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://www.geargrid.com/#website",
+  "name": "GearGrid",
+  "alternateName": "GearGrid Storage Systems",
+  "url": "https://www.geargrid.com/",
+  "description": "Official website of GearGrid, a U.S.-based storage solutions manufacturer for fire, EMS, tactical, athletic, and public works teams.",
+  "inLanguage": "en-US",
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.geargrid.com/#organization",
+    "name": "GearGrid"
+  },
+  "hasPart": [
+    {
+      "@type": "WebPage",
+      "name": "Fire & EMS Storage Equipment",
+      "url": "https://www.geargrid.com/fire-ems-storage-equipment/"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Sports & Athletic Storage Solutions",
+      "url": "https://www.geargrid.com/sports-athletic-storage-solutions/"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Public Works Storage Systems",
+      "url": "https://www.geargrid.com/public-works-storage-systems/"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Tactical Gear Storage Systems",
+      "url": "https://www.geargrid.com/tactical-gear-storage-systems/"
+    },
+    {
+      "@type": "AboutPage",
+      "name": "About GearGrid",
+      "url": "https://www.geargrid.com/about/"
+    },
+    {
+      "@type": "ContactPage",
+      "name": "Contact GearGrid",
+      "url": "https://www.geargrid.com/contact-gear-grid/"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Find a Distributor",
+      "url": "https://www.geargrid.com/find-a-distributor/"
+    },
+    {
+      "@type": "FAQPage",
+      "name": "GearGrid FAQs",
+      "url": "https://www.geargrid.com/resources/faqs/"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Locker Dimensions",
+      "url": "https://www.geargrid.com/resources/locker-dimensions/"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Case Studies",
+      "url": "https://www.geargrid.com/resources/case-studies/"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Architect Resources",
+      "url": "https://www.geargrid.com/resources/architect-drawing-blocks/"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Product Catalogs",
+      "url": "https://www.geargrid.com/resources/catalogs/"
+    }
+  ]
+}

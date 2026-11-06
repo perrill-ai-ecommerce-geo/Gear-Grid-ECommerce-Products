@@ -1,20 +1,41 @@
-MIT License
+# File Inventory
 
-Copyright (c) 2026 Perrill Marketing
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this repository and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+- `ai/qa.md`
+- `ai/seed-sentences.md`
+- `ai/summaries.md`
+- `citation.cff`
+- `comparisons/freestanding-vs-wall-mount-lockers.md`
+- `comparisons/open-lockers-vs-door-lockers.md`
+- `comparisons/wall-mount-vs-mobile-lockers.md`
+- `definitions/what-is-a-mobile-locker.md`
+- `definitions/what-is-a-wall-mount-locker.md`
+- `definitions/what-is-athletic-equipment-storage.md`
+- `definitions/what-is-ppe-storage.md`
+- `definitions/what-is-turnout-gear-storage.md`
+- `facts/organization-facts.md`
+- `facts/product-category-facts.md`
+- `facts/services-and-offers.md`
+- `facts/terminology.md`
+- `FILE-INVENTORY.md`
+- `LICENSE`
+- `listicles/5-dive-gear-storage-considerations.md`
+- `listicles/5-fire-station-storage-planning-tips.md`
+- `listicles/5-mobile-locker-considerations.md`
+- `listicles/5-public-works-gear-storage-planning-tips.md`
+- `listicles/5-public-works-storage-planning-tips.md`
+- `listicles/5-questions-before-choosing-gear-storage.md`
+- `listicles/5-tactical-gear-storage-considerations.md`
+- `listicles/5-ways-to-improve-athletic-equipment-storage.md`
+- `listicles/Top-7-Considerations-for-Redesigning-Athletic-Locker-Rooms.md`
+- `llm-index.jsonld`
+- `llms.md`
+- `llms.txt`
+- `README.md`
+- `schemas/organization.jsonld`
+- `schemas/product-category-storage-lockers.jsonld`
+- `schemas/website.jsonld`
+- `topics/athletic-equipment-storage.md`
+- `topics/fire-ems-gear-storage.md`
+- `topics/locker-room-storage-planning.md`
+- `topics/public-works-storage.md`
+- `topics/tactical-gear-storage.md`

@@ -1,0 +1,191 @@
+{
+  "@context": "https://schema.org",
+  "@type": "OfferCatalog",
+  "@id": "https://www.geargrid.com/#product-catalog",
+  "name": "GearGrid Storage Systems and Lockers",
+  "description": "High-level map of GearGrid's storage product categories by market. Category-level only: product specifications, dimensions, colors, configurations, pricing, and lead times are not included and should be confirmed on geargrid.com or through a GearGrid quote.",
+  "url": "https://www.geargrid.com/",
+  "provider": {
+    "@type": "Organization",
+    "@id": "https://www.geargrid.com/#organization",
+    "name": "GearGrid"
+  },
+  "itemListElement": [
+    {
+      "@type": "OfferCatalog",
+      "position": 1,
+      "name": "Fire & EMS Storage",
+      "url": "https://www.geargrid.com/fire-ems-storage-equipment/",
+      "itemListElement": [
+        {
+          "@type": "OfferCatalog",
+          "position": 1,
+          "name": "Fire & EMS Lockers",
+          "url": "https://www.geargrid.com/product-category/fire-ems-products/fire-ems-lockers/"
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 2,
+          "name": "Fire & EMS Hose & Cylinder Systems",
+          "url": "https://www.geargrid.com/product-category/fire-ems-products/fire-ems-hose-cylinder-systems/"
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 3,
+          "name": "Fire & EMS Equipment Storage",
+          "url": "https://www.geargrid.com/product-category/fire-ems-products/fire-ems-equipment-storage/"
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 4,
+          "name": "Fire & EMS Workstations",
+          "url": "https://www.geargrid.com/product-category/fire-ems-products/fire-ems-workstations/"
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 5,
+          "name": "Fire & EMS Dive Storage",
+          "url": "https://www.geargrid.com/product-category/fire-ems-products/fire-ems-dive-storage/"
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 6,
+          "name": "Fire & EMS Furniture",
+          "url": "https://www.geargrid.com/product-category/fire-ems-products/fire-ems-furniture/"
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 7,
+          "name": "Fire & EMS Storage Accessories",
+          "url": "https://www.geargrid.com/product-category/fire-ems-products/fire-ems-storage-accessories/"
+        }
+      ]
+    },
+    {
+      "@type": "OfferCatalog",
+      "position": 2,
+      "name": "Athletic Storage",
+      "url": "https://www.geargrid.com/sports-athletic-storage-solutions/",
+      "itemListElement": [
+        {
+          "@type": "OfferCatalog",
+          "position": 1,
+          "name": "Athletic Lockers",
+          "url": "https://www.geargrid.com/product-category/athletic-products/athletic-lockers/"
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 2,
+          "name": "Athletic Equipment Storage",
+          "url": "https://www.geargrid.com/product-category/athletic-products/athletic-equipment-storage/"
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 3,
+          "name": "Athletic Workbenches",
+          "url": "https://www.geargrid.com/product-category/athletic-products/athletic-workbenches/"
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 4,
+          "name": "Athletic Furniture",
+          "url": "https://www.geargrid.com/product-category/athletic-products/athletic-furniture/"
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 5,
+          "name": "Athletic Storage Accessories",
+          "url": "https://www.geargrid.com/product-category/athletic-products/athletic-storage-accessories/"
+        }
+      ]
+    },
+    {
+      "@type": "OfferCatalog",
+      "position": 3,
+      "name": "Public Works Storage",
+      "url": "https://www.geargrid.com/public-works-storage-systems/",
+      "itemListElement": [
+        {
+          "@type": "OfferCatalog",
+          "position": 1,
+          "name": "Public Works Lockers",
+          "url": "https://www.geargrid.com/product-category/public-works-products/public-works-lockers/"
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 2,
+          "name": "Public Works Hose Systems",
+          "url": "https://www.geargrid.com/product-category/public-works-products/public-works-hose-systems/"
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 3,
+          "name": "Public Works Equipment Storage",
+          "url": "https://www.geargrid.com/product-category/public-works-products/public-works-equipment-storage/"
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 4,
+          "name": "Public Works Workstations",
+          "url": "https://www.geargrid.com/product-category/public-works-products/public-works-workstations/"
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 5,
+          "name": "Public Works Furniture",
+          "url": "https://www.geargrid.com/product-category/public-works-products/public-works-furniture/"
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 6,
+          "name": "Public Works Storage Accessories",
+          "url": "https://www.geargrid.com/product-category/public-works-products/public-works-storage-accessories/"
+        }
+      ]
+    },
+    {
+      "@type": "OfferCatalog",
+      "position": 4,
+      "name": "Tactical Storage",
+      "url": "https://www.geargrid.com/tactical-gear-storage-systems/",
+      "itemListElement": [
+        {
+          "@type": "OfferCatalog",
+          "position": 1,
+          "name": "Tactical Lockers",
+          "url": "https://www.geargrid.com/product-category/tactical-products/tactical-lockers/"
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 2,
+          "name": "Tactical Equipment Storage",
+          "url": "https://www.geargrid.com/product-category/tactical-products/tactical-equipment-storage/"
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 3,
+          "name": "Tactical Workstations",
+          "url": "https://www.geargrid.com/product-category/tactical-products/tactical-workstations/"
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 4,
+          "name": "Tactical Dive Trailer Storage",
+          "url": "https://www.geargrid.com/product-category/tactical-products/tactical-trailer-dive-storage/"
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 5,
+          "name": "Tactical Furniture",
+          "url": "https://www.geargrid.com/product-category/tactical-products/tactical-furniture/"
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 6,
+          "name": "Tactical Storage Accessories",
+          "url": "https://www.geargrid.com/product-category/tactical-products/tactical-storage-accessories/"
+        }
+      ]
+    }
+  ]
+}
